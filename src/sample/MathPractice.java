@@ -10,6 +10,9 @@ public class MathPractice {
 		System.out.println(c);
 		
 		double d = 3.14;
+		
+		final int e = 100;
+		System.out.println(e);
 	}
 
 }

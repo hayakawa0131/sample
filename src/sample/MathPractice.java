@@ -8,6 +8,8 @@ public class MathPractice {
 		int c;
 		c = a + b;
 		System.out.println(c);
+		
+		double d = 3.14;
 	}
 
 }
